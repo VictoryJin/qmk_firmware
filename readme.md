@@ -13,7 +13,7 @@ You can request changes by making a fork and opening a [pull request](https://gi
 
 ## Supported Keyboards
 
-* Lily 58
+* [Lily 58](/keyboards/)
 * Preonic
 
 See [configurations for other keyboards here](/keyboards/).
