@@ -13,10 +13,10 @@ You can request changes by making a fork and opening a [pull request](https://gi
 
 ## Supported Keyboards
 
-* [Lily 58](/keyboards/)
-* Preonic
+* [Lily 58](/keyboards/lily58/)
+* [Preonic](/keyboards/preonic/)
 
-See [configurations for other keyboards here](/keyboards/).
+See configurations for all compatible keyboards from [original QMK repo here](https://github.com/qmk/qmk_firmware/tree/master/keyboards).
 
 ## Maintainers
 
