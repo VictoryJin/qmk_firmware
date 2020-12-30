@@ -1,5 +1,7 @@
 # Quantum Mechanical Keyboard Firmware
 
+Forking the [official QMK](https://github.com/qmk/qmk_firmware) software, mainly to configure Lily58 Pro and OKLB's Preonic, my two latest ortholinear keyboards.  
+ ~~(키보드라고 쓰고 장난감이라 읽는다)~~  
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
 [![Build Status](https://travis-ci.org/qmk/qmk_firmware.svg?branch=master)](https://travis-ci.org/qmk/qmk_firmware)
 [![Discord](https://img.shields.io/discord/440868230475677696.svg)](https://discord.gg/Uq7gcHh)
@@ -19,14 +21,12 @@ You can request changes by making a fork and opening a [pull request](https://gi
 
 ## Supported Keyboards
 
-* [Planck](/keyboards/planck/)
-* [Preonic](/keyboards/preonic/)
-* [ErgoDox EZ](/keyboards/ergodox_ez/)
-* [Clueboard](/keyboards/clueboard/)
-* [Cluepad](/keyboards/clueboard/17/)
-* [Atreus](/keyboards/atreus/)
+* Lily 58
+* Preonic
 
-The project also includes community support for [lots of other keyboards](/keyboards/).
+This provides
+
+See [configurations for other keyboards here](/keyboards/).
 
 ## Maintainers
 
